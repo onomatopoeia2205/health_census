@@ -1,0 +1,44 @@
+	
+conditions	
+0	
+name	"Thyroid"
+imagesrc	"thyroid.jpg"
+symptoms	
+0	"Fatigue"
+1	"Weight gain or loss"
+2	"Dry skin"
+3	"Muscle weakness"
+4	"Irregular menstrual periods"
+prevention	
+0	"Eat a balanced diet"
+1	"Exercise regularly"
+2	"Get regular check-ups"
+treatment	"Medication like levothyroxine may be prescribed by a doctor."
+1	
+name	"Diabetes"
+imagesrc	"diabeties.jpg"
+symptoms	
+0	"Frequent urination"
+1	"Increased thirst"
+2	"Blurry vision"
+3	"Fatigue"
+4	"Slow healing of cuts or sores"
+prevention	
+0	"Maintain a healthy weight"
+1	"Follow a balanced diet"
+2	"Regular exercise"
+treatment	"Management includes medication, insulin therapy, and lifestyle changes."
+2	
+name	"High Blood Pressure"
+imagesrc	"blood_pressure.jpg"
+symptoms	
+0	"Headaches"
+1	"Shortness of breath"
+2	"Chest pain"
+3	"Dizziness"
+4	"Blurred or double vision"
+prevention	
+0	"Reduce salt intake"
+1	"Exercise regularly"
+2	"Maintain a healthy weight"
+treatment	"Medications like ACE inhibitors or diuretics may be prescribed."
